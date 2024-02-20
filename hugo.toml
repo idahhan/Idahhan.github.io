@@ -1,0 +1,4 @@
+baseURL = 'https://idahhan.github.io'
+languageCode = 'en-us'
+title = 'Rami Dahhan'
+theme = 'archie'
