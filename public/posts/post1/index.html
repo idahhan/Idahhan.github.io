@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Data Literacy for Product Management: Causal models and variations. - Rami Dahhan</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="How many controllable inputs do you know about your product right now? Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon
+If the answer is none, this article is for you.
+Why become Data-Driven? Data embodies knowledge, and from this knowledge, you can construct a causal model of your product or business." />
+	<meta property="og:image" content=""/>
+	<meta property="og:title" content="Data Literacy for Product Management: Causal models and variations." />
+<meta property="og:description" content="How many controllable inputs do you know about your product right now? Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon
+If the answer is none, this article is for you.
+Why become Data-Driven? Data embodies knowledge, and from this knowledge, you can construct a causal model of your product or business." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/post1/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-02-20T12:13:38+05:30" />
+<meta property="article:modified_time" content="2024-02-20T12:13:38+05:30" />
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Data Literacy for Product Management: Causal models and variations."/>
+<meta name="twitter:description" content="How many controllable inputs do you know about your product right now? Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon
+If the answer is none, this article is for you.
+Why become Data-Driven? Data embodies knowledge, and from this knowledge, you can construct a causal model of your product or business."/>
+<script src="http://localhost:1313/js/feather.min.js"></script>
+	
+	
+        <link href="http://localhost:1313/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css" media="(prefers-color-scheme: dark)"  />
+	
+
+	
+	
+		<script type="text/javascript"
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+	
+		
+		<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {
+				inlineMath: [['$','$'], ['\\(','\\)']],
+				displayMath: [['$$','$$'], ['\[','\]']],
+				processEscapes: true,
+				processEnvironments: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+				TeX: { equationNumbers: { autoNumber: "AMS" },
+						 extensions: ["AMSmath.js", "AMSsymbols.js"] }
+			}
+		});
+		</script>
+	
+
+	
+	
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css">
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+		
+		
+		<script>
+			document.addEventListener("DOMContentLoaded", function() {
+					renderMathInElement(document.body, {
+							delimiters: [
+									{left: "$$", right: "$$", display: true},
+									{left: "$", right: "$", display: false}
+							]
+					});
+			});
+			</script>
+	
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="http://localhost:1313/">Rami Dahhan</a>
+	</div>
+	<nav>
+		
+		<a href="/">Home</a>
+		
+		<a href="/posts">All posts</a>
+		
+		<a href="/about">About</a>
+		
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">Data Literacy for Product Management: Causal models and variations.</h1>
+			<div class="meta">Posted on Feb 20, 2024</div>
+		</div>
+		
+
+		<section class="body">
+			<p>How many controllable inputs do you know about your product right now?  Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon</p>
+<p>If the answer is none, this article is for you.</p>
+<h1 id="why-become-data-driven">Why become Data-Driven?</h1>
+<p>Data embodies knowledge, and from this knowledge, you can construct a causal model of your product or business. Understanding your controllable inputs and their effects on your outcomes allows for:</p>
+<ol>
+<li>
+<p>Reduced team interruptions, thanks to a better understanding of the variations within your metrics.</p>
+</li>
+<li>
+<p>Easier &ldquo;trial and error&rdquo; processes, as you can always complete the feedback loop by studying the changes to your data, following the Plan-Do-Study-Act cycle.</p>
+</li>
+</ol>
+<h1 id="understanding-goodharts-law">Understanding Goodhart&rsquo;s Law</h1>
+<p>Goodhart&rsquo;s Law cautions us that focusing solely on altering specific metrics, such as customer complaints or conversion rates, without a deep understanding of your business&rsquo;s cause-and-effect model can lead to counterproductive behaviors. This means that if teams are pressured to meet targets, they might manipulate the system or data instead of genuinely improving underlying processes.</p>
+<p>Goodhart&rsquo;s Law indicates three potential paths when individuals aim to achieve a set target:</p>
+<ol>
+<li>Genuinely improving the system to enhance overall performance.</li>
+<li>Distorting the system to meet goals without real improvement.</li>
+<li>Manipulating how outcomes are measured to falsely suggest success.</li>
+</ol>
+<p>Moreover, Goodhart emphasized the importance of differentiating between the Voice of the Process (how your process actually operates) and the Voice of the Customer (the targets and requirements).</p>
+<h1 id="improving-the-system">Improving the System</h1>
+<p>View your product or service as a system of various inputs and outputs. For instance, if your goal is to decrease the number of customer complaints (an output), you must identify which specific inputs can effectively lead to this desired outcome. This involves gaining a deeper insight into how each input affects customer satisfaction and pinpointing areas for improvement.</p>
+<h2 id="understanding-the-causal-model">Understanding the Causal Model</h2>
+<p>Often referred to colloquially as a &ldquo;black box,&rdquo; the causal model of your system helps us determine if specific actions lead to desired results.</p>
+<p><img src="/blackbox.png" alt=""></p>
+<h1 id="leveraging-process-behavior-charts-pbcs">Leveraging Process Behavior Charts (PBCs)</h1>
+<p><img src="/complaints.png" alt=""></p>
+<p>When looking at the raw data of a customer complaints chart, such as the one provided, it&rsquo;s easy to see the fluctuations in numbers but difficult to extract actionable insights without further analysis. This chart alone, devoid of analytical tools or context, is merely a superficial representation of data. It doesn&rsquo;t allow for an understanding of underlying patterns, trends, or root causes of the fluctuations in complaint numbers. Without deploying statistical tools or process behavior charts, any hypothesis about why complaints are rising or falling would be based on conjecture rather than evidence.</p>
+<p>To make sense of your customer complaint data, we turn to Process Behavior Charts (PBCs), particularly the XmR (Shewhart&rsquo;s Control Chart), which is notably effective. It consists of:</p>
+<p><img src="/bothcharts.png" alt=""></p>
+<p><strong>the &lsquo;X-Bar&rsquo; chart</strong></p>
+<p>In very simple terms, it&rsquo;s a chart that tracks how the average (or &ldquo;mean&rdquo;) of something changes over time. Imagine you&rsquo;re making cookies and you want all of them to be roughly the same size. Each day you bake a batch, you measure the size of a few cookies and calculate the average size. You then plot this average size on the chart for each batch you make. Over time, this chart will show you if your cookies are getting bigger, smaller, or staying about the same size on average. This helps you understand if your cookie-making process is consistent or if you need to make adjustments to keep the cookie sizes just right.</p>
+<p><strong>Moving range chart</strong></p>
+<p>A &ldquo;moving range&rdquo; chart is another tool used in quality control, focusing on how much something changes from one measurement to the next. Let&rsquo;s go back to the cookie example. Instead of looking at the average size of cookies in each batch, this time you pay attention to how much the size of the cookies changes from one cookie to the next. After measuring two consecutive cookies, you calculate the difference in their sizes (how much bigger or smaller the second cookie is compared to the first one). You do this for every pair of cookies in the batch and then plot these differences on the chart over time.</p>
+<h1 id="reading-the-charts">Reading the Charts</h1>
+<p><strong>Status of our Process</strong></p>
+<p>Control charts provide immediate visual feedback on whether a process is stable (in control) or if there are signs of instability (out of control). Chart 3 and 4 tell us that the customer complains for this service is completely predictable, and will fluctuate between 4467 and 1871 assuming nothing fundamentally changes with the process. As seen in Chart 5 below, if tomorrow you see an increase of complaints to 4400 you don’t need to panic as it&rsquo;s still blew the upper limit Control.</p>
+<p><img src="/variations.png" alt=""></p>
+<p><strong>Points Outside Control Limits</strong></p>
+<p>They also help us distinguish between common cause variability (inherent to the process) and special cause variability (resulting from specific, identifiable sources). For example, the sudden point outside the upper or lower limits. This requires team to investigate (it could be related to certain outage at that time).</p>
+<p><img src="/outside.png" alt=""></p>
+<p><strong>Run of Points on One Side of the Center Line</strong></p>
+<p><img src="/Centerline.png" alt=""></p>
+<p>Run of seven or more consecutive points on one side of the center line (mean) indicates a shift in the process. This doesn&rsquo;t necessarily mean the process is producing defects, but it does suggest the process average has shifted and is no longer stable.</p>
+<p><strong>Cycles or Patterns in the Data</strong></p>
+<p><img src="/pattern.png" alt=""></p>
+<p>When the data shows a repeating pattern or cycle, this indicates that the process being influenced by systematic factors. These could be related to maintenance schedules, shifts in worker teams, or other cyclical factors.</p>
+<h1 id="trial-and-error">Trial and Error</h1>
+<p>Now, it&rsquo;s time to put theory into practice. Collaborate with your product leads and functions to hypothesize which inputs you control and the outputs they impact. Begin the &ldquo;trial and error&rdquo; cycle to test your hypotheses, ensuring you close the &ldquo;Plan-Do-Study-Act&rdquo; loop.</p>
+<h1 id="conclusion">Conclusion</h1>
+<p>Becoming data-driven is not merely a trend but a foundational shift in how we approach product development and business strategy. By understanding the controllable inputs of your product and how they directly influence key outcomes, businesses can make informed decisions that lead to tangible improvements in customer satisfaction and overall performance. The use of Process Behavior Charts (PBCs), such as the XmR charts discussed, provides a powerful tool for visualizing the stability of processes and identifying areas for improvement. Through these methods, we can discern between common cause variability and special cause variability, allowing for more precise interventions. Moreover, adhering to principles that avoid the pitfalls of Goodhart&rsquo;s Law ensures that our efforts to improve metrics do not lead to counterproductive behaviors or manipulated outcomes. In essence, the journey towards becoming data-driven is about cultivating a deeper understanding of your business&rsquo;s causal model, enabling a proactive, rather than reactive, approach to management and improvement. By embracing this mindset, organizations can foster a culture of continuous improvement, reduce inefficiencies, and enhance customer satisfaction, ultimately driving success in an increasingly competitive landscape.</p>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			
+		</div>
+		</article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://github.com/idahhan" rel="me" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a><a class="soc" href="https://twitter.com/idahhan1" rel="me" title="Twitter"><i data-feather="twitter"></i></a>
+    <a class="border"></a></div>
+  <div class="footer-info">
+    2024  <a
+      href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+  </div>
+</footer>
+<script>
+  feather.replace()
+</script></div>
+    </body>
+</html>
