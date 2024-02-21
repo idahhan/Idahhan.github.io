@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/post1/</guid>
       <description>How many controllable inputs do you know about your product right now? Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon usecase.&#xA;If the answer is none, this article is for you.&#xA;Why become Data-Driven? Data embodies knowledge, and from this knowledge, you can construct a causal model of your product or business.</description>
     </item>
+    <item>
+      <title>Data Literacy for Product Management: Causal models and variations.</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Tue, 20 Feb 2024 12:13:38 +0530</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>How many controllable inputs do you know about your product right now? Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon usecase.&#xA;If the answer is none, this article is for you.&#xA;Why become Data-Driven? Data embodies knowledge, and from this knowledge, you can construct a causal model of your product or business.</description>
+    </item>
   </channel>
 </rss>

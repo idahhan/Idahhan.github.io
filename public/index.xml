@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/about/</guid>
       <description>Welcome! I&amp;rsquo;m Rami Dahhan, a Technical Product Manager with a passion for leveraging data-driven insights to craft long-term product roadmaps. With over a decade of experience at leading corporations like Starbucks, Rogers, and Bell, I specialize in aligning product development with strategic business goals, ensuring every feature we introduce is user-centric and backed by solid data.&#xA;My academic background, with a Bachelor&amp;rsquo;s in Computer Engineering and a Master&amp;rsquo;s in Technology Innovation Management, laid the foundation for my approach to product management: rigorous, analytical, and always forward-looking.</description>
     </item>
+    <item>
+      <title>PM Perspectives: Org Structure and Daily Challenges</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Fri, 12 Jan 2024 12:13:38 +0530</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>Why does org structure matter to a Product Manager? To understand why organizational structure matters so much for Product Managers, let&amp;rsquo;s dive into Conway&amp;rsquo;s Law. Imagine this: in 1967, Melvin E. Conway introduced the groundbreaking concept that the systems we develop often mirror our company&amp;rsquo;s communication structures. This implies that if your organization is siloed, it&amp;rsquo;s likely your products will reflect those silos.&#xA;For Product Managers, deciphering your organization&amp;rsquo;s structure is akin to discovering the secret ingredient that enables the creation of outstanding products that are not only successful but also strategically aligned.</description>
+    </item>
   </channel>
 </rss>

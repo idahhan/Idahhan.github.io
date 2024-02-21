@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/posts/post1/</loc>
     <lastmod>2024-02-20T12:13:38+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/post2/</loc>
+    <lastmod>2024-02-20T12:13:38+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-02-20T12:13:38+05:30</lastmod>
   </url><url>
