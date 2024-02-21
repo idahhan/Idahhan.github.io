@@ -14,7 +14,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "I am a Technical Product Manager. "
+	subtitle = "I am a Senior Product Manager, leveraging over a decade of cross-industry expertise to empower innovation through data-driven and user-centered product management. My approach focuses on crafting solutions that not only resonate with users but also drive business success."
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
@@ -29,6 +29,11 @@ url = "https://github.com/idahhan"
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/idahhan1"
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/ramidahhan/"
 
 
 # Main menu Items

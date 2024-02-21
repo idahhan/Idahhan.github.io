@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/post1/</link>
       <pubDate>Tue, 20 Feb 2024 12:13:38 +0530</pubDate>
       <guid>http://localhost:1313/posts/post1/</guid>
-      <description>How many controllable inputs do you know about your product right now? Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon&#xA;If the answer is none, this article is for you.&#xA;Why become Data-Driven? Data embodies knowledge, and from this knowledge, you can construct a causal model of your product or business.</description>
+      <description>How many controllable inputs do you know about your product right now? Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon usecase.&#xA;If the answer is none, this article is for you.&#xA;Why become Data-Driven? Data embodies knowledge, and from this knowledge, you can construct a causal model of your product or business.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome! I&amp;rsquo;m Rami Dahhan, a Technical Product Manager with a passion for leveraging data-driven insights to craft long-term product roadmaps. With over a decade of experience at leading corporations like Starbucks, Rogers, and Bell, I specialize in aligning product development with strategic business goals, ensuring every feature we introduce is user-centric and backed by solid data.&#xA;My academic background, with a Bachelor&amp;rsquo;s in Computer Engineering and a Master&amp;rsquo;s in Technology Innovation Management, laid the foundation for my approach to product management: rigorous, analytical, and always forward-looking.</description>
     </item>
   </channel>
 </rss>

@@ -3,7 +3,7 @@ title: "Data Literacy for Product Management: Causal models and variations."
 date: 2024-02-20T12:13:38+05:30
 ---
 
-How many controllable inputs do you know about your product right now?  Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon 
+How many controllable inputs do you know about your product right now?  Something like “10% increase in detail page views where the products were in stock and immediately ready for two-day shipping directly improves conversation rates by 1%” - Example from Amazon usecase. 
 
 If the answer is none, this article is for you.
 
@@ -103,3 +103,12 @@ Now, it's time to put theory into practice. Collaborate with your product leads 
 # Conclusion
 
 Becoming data-driven is not merely a trend but a foundational shift in how we approach product development and business strategy. By understanding the controllable inputs of your product and how they directly influence key outcomes, businesses can make informed decisions that lead to tangible improvements in customer satisfaction and overall performance. The use of Process Behavior Charts (PBCs), such as the XmR charts discussed, provides a powerful tool for visualizing the stability of processes and identifying areas for improvement. Through these methods, we can discern between common cause variability and special cause variability, allowing for more precise interventions. Moreover, adhering to principles that avoid the pitfalls of Goodhart's Law ensures that our efforts to improve metrics do not lead to counterproductive behaviors or manipulated outcomes. In essence, the journey towards becoming data-driven is about cultivating a deeper understanding of your business's causal model, enabling a proactive, rather than reactive, approach to management and improvement. By embracing this mindset, organizations can foster a culture of continuous improvement, reduce inefficiencies, and enhance customer satisfaction, ultimately driving success in an increasingly competitive landscape.
+
+
+
+
+### References
+
+1. https://commoncog.com/becoming-data-driven-first-principles/
+2. https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html
+
