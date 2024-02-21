@@ -5,9 +5,9 @@ date: 2024-01-12T12:13:38+05:30
 
 # Why does org structure matter to a Product Manager?
 
-To understand why organizational structure matters so much for Product Managers, let's dive into Conway's Law. Imagine this: in 1967, Melvin E. Conway introduced the groundbreaking concept that the systems we develop often mirror our company's communication structures. This implies that if your organization is siloed, it's likely your products will reflect those silos.
+Let's chat about why the setup of your company is super important for Product Managers, and bring Conway's Law into the mix. Picture this: back in 1967, Melvin E. Conway came up with this cool idea that the stuff we create tends to look a lot like how we talk to each other at work. So, if your company is all about working in separate little bubbles, chances are, your products are going to show that separation too.
 
-For Product Managers, deciphering your organization's structure is akin to discovering the secret ingredient that enables the creation of outstanding products that are not only successful but also strategically aligned. This insight shifts the perspective from attributing silo issues to individuals, to understanding them as structural challenges.
+For Product Managers, getting a handle on how your company is organized is like finding the magic sauce that makes it possible to whip up amazing products that don't just do well, but also fit perfectly with what you're aiming to achieve. This way of thinking helps shift the blame from people to the bigger picture, highlighting these issues as something built into the way things are set up.
 
 # Why now? 
 
