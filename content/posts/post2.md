@@ -3,6 +3,10 @@ title: "PM Perspectives: Org Structure and Daily Challenges"
 date: 2024-01-12T12:13:38+05:30
 ---
 
+![](/orgstructure.png)
+
+
+
 # Why does org structure matter to a Product Manager?
 
 Exploring the significance of organizational structure for Product Managers leads us to a fascinating concept known as Conway's Law. In 1967, Melvin E. Conway introduced a groundbreaking idea: the systems we develop often mirror our company's communication patterns. This means if your organization operates in isolated silos, it's likely that your products will reflect those divisions.
@@ -25,7 +29,7 @@ Skipping the deep dive into every org structure out there, let's cut straight to
 |Increased need for coordination|	Growing complexity in products necessitating more cross-functional decisions, or Growing number of products requiring more cross-functional decisions, or Monolith product teams with no clear distinctions in team topologies (Streams, platform, enabling, complicated subsystem). [Learn More](https://teamtopologies.com/key-concepts-content/team-interaction-modeling-with-team-topologies)|
 |Difficulty in managing diverse and rapidly changing product lines|	No product teams; the diversity and pace of change exceed the information processing capacity of general and functional managers.|
 |Product teams failing to create certain technical capabilities internally. |Product teams operating on tight schedules often lack the time to develop technical capabilities. This underscores the need for specialized platform or complex subsystem teams. [Learn More](https://teamtopologies.com/key-concepts-content/team-interaction-modeling-with-team-topologies)|
-|Good talents leaving the company|Poor change management following a reorganization has left employees unclear about its objectives, leading them to associate the reorganization with instability.y|
+|Good talents leaving the company|Poor change management following a reorganization has left employees unclear about its objectives, leading them to associate the reorganization with instability.
 
 
 ### References
